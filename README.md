@@ -8,7 +8,7 @@ I am a Full Stack Software Developer who gets 'kid in a candy store' joy from ma
 - 🔭 I’m currently working on:
 
   - CSS for JS Design Course, Josh W. Comeau - source: https://github.com/Pete-Angjelevski/character-creator
-  - SpringBoot Project - source: https://github.com/Pete-Angjelevski/aws-image-upload
+  - SpringBoot Project - source: https://github.com/Pete-Angjelevski/springboot-todo-app
 
 
 - 🌱 I’m currently learning:
