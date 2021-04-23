@@ -9,6 +9,7 @@ I am a Full Stack Software Developer who gets 'kid in a candy store' joy from ma
 
   - CSS for JS Design Course, Josh W. Comeau - source: https://github.com/Pete-Angjelevski/character-creator
   - SpringBoot Project - source: https://github.com/Pete-Angjelevski/springboot-todo-app
+  - Top Shelf (Cookie Creator Project using Redux) - source: https://github.com/Pete-Angjelevski/Top-Shelf
 
 
 - 🌱 I’m currently learning:
