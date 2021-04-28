@@ -7,7 +7,7 @@ I am a Full Stack Software Developer who gets 'kid in a candy store' joy from ma
 
 - 🔭 I’m currently working on:
 
-  - CSS for JS Design Course, Josh W. Comeau - source: https://github.com/Pete-Angjelevski/character-creator
+  - Tetris game with React Hooks + CSS - source: https://github.com/Pete-Angjelevski/Tetris
   - SpringBoot Project - source: https://github.com/Pete-Angjelevski/springboot-todo-app
   - Refining my Redux Skill, application will be uploaded shortly of such
 
