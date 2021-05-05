@@ -15,8 +15,7 @@ I am a Full Stack Software Developer who gets 'kid in a candy store' joy from ma
 - 🌱 I’m currently learning:
 
   - SpringBoot 
-  - JQuery
-  - MySQL
+  - TypeScript
   - React Native
 
 - 📫 How to reach me:
