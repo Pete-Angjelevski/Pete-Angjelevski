@@ -7,7 +7,7 @@ I am a Full Stack Software Developer who gets 'kid in a candy store' joy from ma
 
 - 🔭 I’m currently working on:
 
-  - Full Stack Tetris Game with React Hooks + RESTful APIs + CSS - source: https://github.com/Pete-Angjelevski/Tetris
+  - Full Stack Tetris Game with React Hooks + TypeScipt + RESTful APIs + CSS - source: https://github.com/Pete-Angjelevski/Tetris
   - SpringBoot Project - source: https://github.com/Pete-Angjelevski/springboot-todo-app
   - Refining my Redux Skill, application will be uploaded shortly of such
 
