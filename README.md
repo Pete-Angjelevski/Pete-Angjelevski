@@ -1,7 +1,10 @@
-### Howdy! 👋 How ya doin?
+### Howdy! 👋 Welcome to Pete's Page
 
 
-I am a Full Stack Software Developer who gets 'kid in a candy store' joy from making some gorgeous front end UI with React and CSS as much as I do a clean and efficient back end route/API.
+My fire burns for three things, Coding 💻 - Martial Arts 💪 - Music  🎵             *i wish coding also started with an 'M' so i could call them the 3 Ms*
+
+Take a peak below at some of the things i've been working on and how to get in contact with me! 
+
 
 - 😄 Pronouns: He/Him
 
