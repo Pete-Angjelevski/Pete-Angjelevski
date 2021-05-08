@@ -1,20 +1,14 @@
-### Howdy! 👋 Welcome to Pete's Page
+![Pete-Angjelevski Banner](images/Pete%20Angjelevski.png)
 
+### Pete's Page 
 
-My fire burns for three things, Coding 💻 - Martial Arts 💪 - Music  🎵             *i wish coding also started with an 'M' so i could call them the 3 Ms*
+My fire burns for three things, Coding 💻 - Martial Arts 💪 - Music  🎵             *i wish coding also started with an 'M' so i could call them the 3 M's*
 
-Take a peak below at some of the things i've been working on and how to get in contact with me! 
+Take a peak below at some of the things I've been working on and how to get in contact with me! 
 
 
 ## 😄 Pronouns: He/Him
 
-## 🔭 I’m currently working on:
-
-  - **Full Stack Tetris Game** - source: https://github.com/Pete-Angjelevski/Tetris
-  - **TypeScript SandBox** for understanding and refining - source: https://github.com/Pete-Angjelevski/TypeScript
-  - **Small SpringBoot ToDo App** - source: https://github.com/Pete-Angjelevski/springboot-todo-app
-  
-  
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -33,6 +27,12 @@ Take a peak below at some of the things i've been working on and how to get in c
 
 
 
+## 🔭 I’m currently working on:
+
+  - **Full Stack Tetris Game** - source: https://github.com/Pete-Angjelevski/Tetris
+  - **TypeScript SandBox** for understanding and refining - source: https://github.com/Pete-Angjelevski/TypeScript
+  - **Small SpringBoot ToDo App** - source: https://github.com/Pete-Angjelevski/springboot-todo-app
+  
 
 ## 🌱 I’m currently learning:
 
