@@ -34,6 +34,8 @@ Take a peak below at some of the things I've been working on and how to get in c
   - WIP: **Pete's Candy Shop** TypeScript & Redux utilized shopping cart App - source: https://github.com/Pete-Angjelevski/Candy-Shop
   - **Small SpringBoot ToDo App** - source: https://github.com/Pete-Angjelevski/springboot-todo-app
   
+  
+  go to my pinned repositories for my work from Enspiral Dev Academy.
 
 ## 🌱 I’m currently learning:
 
