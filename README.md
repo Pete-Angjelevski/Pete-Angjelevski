@@ -29,8 +29,9 @@ Take a peak below at some of the things I've been working on and how to get in c
 
 ## 🔭 I’m currently working on:
 
-  - **Full Stack Tetris Game** - source: https://github.com/Pete-Angjelevski/Tetris
+  - WIP: **Full Stack Tetris Game** - source: https://github.com/Pete-Angjelevski/Tetris
   - **TypeScript SandBox** for understanding and refining - source: https://github.com/Pete-Angjelevski/TypeScript
+  - WIP: **Pete's Candy Shop** TypeScript & Redux utilized shopping cart App - source: https://github.com/Pete-Angjelevski/Candy-Shop
   - **Small SpringBoot ToDo App** - source: https://github.com/Pete-Angjelevski/springboot-todo-app
   
 
