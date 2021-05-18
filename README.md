@@ -2,6 +2,8 @@
 
 ### Pete's Page 
 
+The aim of the game is to solve problems, build components and make sure they look good. I'm Player 1. 
+
 My fire burns for three things, Coding 💻 - Martial Arts 💪 - Music  🎵             *i wish coding also started with an 'M' so i could call them the 3 M's*
 
 Take a peak below at some of the things I've been working on and how to get in contact with me! 
