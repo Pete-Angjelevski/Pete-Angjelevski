@@ -44,9 +44,9 @@ Take a peak below at some of the things I've been working on and how to get in c
 
 ## 🌱 I’m currently learning:
 
-  - SpringBoot 
+ 
   - TypeScript
-  - React Native
+  - PostgreSQL
 
 ## 📫 How to reach me:
 
