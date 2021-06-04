@@ -35,9 +35,9 @@ Take a peak below at some of the things I've been working on and how to get in c
 
 ## 🔭 I’m currently working on:
 
-  - WIP: **Full Stack Tetris Game** - source: https://github.com/Pete-Angjelevski/Tetris
+  - **Pete's Candy Shop** TypeScript, Redux and Stripe utilized shopping cart App - source: https://github.com/Pete-Angjelevski/Candy-Shop
 
-  - WIP: **Pete's Candy Shop** TypeScript, Redux and Stripe utilized shopping cart App - source: https://github.com/Pete-Angjelevski/Candy-Shop
+  - **Full Stack Tetris Game** - source: https://github.com/Pete-Angjelevski/Tetris 
 
   - **PERN ToDo APP** PERN stack todo app - source: https://github.com/Pete-Angjelevski/pern-todo
   
